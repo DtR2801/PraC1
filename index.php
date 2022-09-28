@@ -5,20 +5,35 @@
         <meta charset="UTF-8">
         <meta name=>
         <link rel="stylesheet" href="css/styleIndex.css">
+        <link rel="stylesheet" href="css/styleShared.css">
     </head>
 
     <body>
         
-        <header>
-            <img class="logoTop" src="img/Logos/curio-16-midden-groen-logo-rgb.png" width="130px" alt="Logo van Curio">
-            <h1>Software Developer</h1>
+        <header class="header">
+            <a class="nonImageAnchour" href="vakken.php">Vakken</a>
+            <a class="nonImageAnchour" href="leraren.php">Leraren</a>
+
+            <a href="index.php"><img class="logoTop" src="img/Logos/curio-15-licht-groen-logo-rgb.png" width="160px" alt="Logo van Curio"></a>
+
+            <a class="nonImageAnchour" href="blokIndeling.php">Blokken</a>
+            <a class="nonImageAnchour" href="rooster.php">Rooster</a> 
+
+            
         </header>
 
         <main>
+            <h1>Software Developer</h1>
+            <img class="" src="" width="" alt="">
+            <p>
+
+            </p>
 
         </main>
 
         <footer>
+        <p>made by dtr</p>
+            <p>Curio</p>
 
         </footer>
         

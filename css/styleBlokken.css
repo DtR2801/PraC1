@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: rgb(255, 158, 242);
+    background-color: rgb(255, 216, 89);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #fff;
     text-align: center;
@@ -13,11 +13,10 @@ body{
 header{
     margin-top: 20px;
 
-
 }
 
 a{
-    color: rgb(179, 255, 0);
+    color: rgb(133, 2, 67);
 }
 
 main{
@@ -25,8 +24,8 @@ main{
 }
 
 footer{
-    background-color: rgb(179, 255, 0);
-    color: rgb(255, 158, 242);
+    background-color: rgb(124, 3, 63);
+    color: rgb(255, 216, 89);
 }
 
 /* .logoTop img{
