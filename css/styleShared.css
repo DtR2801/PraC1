@@ -1,8 +1,17 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 a{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-decoration: none;
 
    
+}
+
+*{
+	margin: 0;
+	padding: 0;
 }
 
 .nonImageAnchour{

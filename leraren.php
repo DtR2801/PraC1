@@ -1,4 +1,4 @@
-<html>
+<!DOCTYPE html>
     
     <head>
         <title>Curio Software Developement</title>
@@ -25,11 +25,41 @@
         </header>
 
         <main>
-            <h1>Meet the teachers!</h1>
-            <img class="" src="" width="" alt="">
-            <p>
+        <h1>Meet the teachers!</h1>
+            <div class="leraren">
+                <div class="leraar">
+                
+                <img class="fotoLeraar" src="img/Others/bart-roos-2.jpg" width="20%" alt="">
+                <p></p>
 
-            </p>
+                </div>
+                <div class="leraar">
+                    
+                    <img class="fotoLeraar" src="img/Others/bart-roos-2.jpg" width="20%" alt="">
+                    <p></p>
+
+                </div>
+                <div class="leraar">
+                    
+                    <img class="fotoLeraar" src="img/Others/bart-roos-2.jpg" width="20%" alt="">
+                    <p></p>
+
+                </div>
+                <div class="leraar">
+                    
+                    <img class="fotoLeraar" src="img/Others/bart-roos-2.jpg" width="20%" alt="">
+                    <p></p>
+
+                </div>
+                <div class="leraar">
+                    
+                    <img class="fotoLeraar" src="img/Others/bart-roos-2.jpg" width="20%" alt="">
+                    <p></p>
+
+                </div>
+                
+            </div>
+            
 
         </main>
 
