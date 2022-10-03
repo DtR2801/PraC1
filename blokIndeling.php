@@ -1,4 +1,4 @@
-<html>
+<!DOCTYPE html>
     
     <head>
         <title>Curio Software Developement</title>
@@ -23,10 +23,37 @@
 
         <main>
             <h1>Blok Indeling</h1>
-            <img class="" src="" width="" alt="">
-            <p>
+            <div class="Blokoversight">
+                <div class="leerjaar1">
+                    <h2>Lj1</h2>
+                    <img class="Blokken" src="img/Others/A.PNG" width="180px" alt="">
+                    <img class="Blokken" src="img/Others/B.PNG" width="180px" alt="">
+                </div>
 
-            </p>
+                <div class="leerjaar2">
+                    <h2>Lj2</h2>
+                    <img class="Blokken" src="img/Others/C.PNG" width="180px" alt="">
+                    <img class="Blokken" src="img/Others/C.PNG" width="180px" alt="">
+                </div>
+
+                <div class="leerjaar1">
+                <h2>Lj3</h2>
+                    <img class="Blokken" src="img/Others/A.PNG" width="180px" alt="">
+                    <img class="Blokken" src="img/Others/B.PNG" width="180px" alt="">
+                </div>
+
+                <div class="leerjaar1">
+                <h2>Lj4</h2>
+                    <img class="Blokken" src="img/Others/A.PNG" width="180px" alt="">
+                    <img class="Blokken" src="img/Others/B.PNG" width="180px" alt="">
+                </div>
+            </div>
+            <div class="downthere">
+                <a href="versnellen.php"><h2>Versnellen?</h2></a>
+
+            </div>
+            
+            
 
         </main>
 

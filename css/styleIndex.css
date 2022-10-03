@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: rgb(255, 158, 242);
+    background-color: rgb(255, 123, 123);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #fff;
     text-align: center;
@@ -24,9 +24,28 @@ main{
     margin-top: 25px;
 }
 
+.homediv{
+    margin-top: 25px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.homeimage{
+    margin-right: 30px;
+    max-width: 60%;
+}
+
+.texthomepage{
+    max-width: 40%;
+}
+
 footer{
     background-color: rgb(179, 255, 0);
-    color: rgb(255, 158, 242);
+    color: rgb(255, 123, 123);
 }
 
 /* .logoTop img{
