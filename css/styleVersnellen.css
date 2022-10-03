@@ -1,0 +1,68 @@
+
+body{
+    background-color:rgb(180, 46, 113);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #fff;
+    text-align: center;
+}
+
+header{
+    margin-top: 20px;
+
+}
+
+a{
+    color: rgb(255, 216, 89);
+}
+
+.Blokoversight{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 30px;
+    max-width: 85%;
+}
+
+.leerjaar1{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.leerjaar2{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.BlokkenV{
+    padding: 100px 85px 100px 85px;
+    border: 2px solid rgb(255, 216, 89);
+    border-radius: 15px;
+    background-color: rgb(255, 216, 89);
+    margin-bottom: 25%;
+}
+
+.BlokkenVi{
+    padding: 100px 85px 100px 85px;
+    border: 2px solid rgb(222, 166, 0);
+    border-radius: 15px;
+    background-color: rgb(222, 166, 0);
+    margin-bottom: 25%;
+}
+
+.BlokkenVii{
+    padding: 100px 85px 100px 85px;
+    border: 2px solid rgb(185, 142, 0);
+    border-radius: 15px;
+    background-color: rgb(185, 142, 0);
+    margin-bottom: 25%;
+}
+
+h2{
+    margin-bottom: 7.5%;
+}
+
+footer{
+    background-color:rgb(255, 216, 89) ;
+}
