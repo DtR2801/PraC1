@@ -27,10 +27,11 @@
         </header>
 
         <main>
+        <h1>Roosters</h1>
             <div class="backgroundpage">
-                <h1>Roosters</h1>
-                <img class="" src="" width="" alt="">
-                <p></p>
+                <h3>De lessen beginnen op zijn vroegst om 08.30 en eindigen op zijn laatst om 16.30</h3>
+                <img class="roosterimg" src="img/Others/Schermafbeelding 2022-10-04 om 08.58.30.png" width="80%" alt="">
+                
             </div>
 
         </main>

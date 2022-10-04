@@ -49,6 +49,7 @@
                 </div>
             </div>
             <div class="downthere">
+                <p>Het normale traject duurt 4 jaar</p>
                 <a href="versnellen.php"><h2>Versnellen?</h2></a>
 
             </div>

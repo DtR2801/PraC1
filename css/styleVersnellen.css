@@ -15,6 +15,10 @@ a{
     color: rgb(255, 216, 89);
 }
 
+main{
+    margin-top: 25px;
+}
+
 .Blokoversight{
     display: flex;
     flex-direction: row;
@@ -59,6 +63,22 @@ a{
     margin-bottom: 25%;
 }
 
+@media only screen and (max-width: 800px){
+    .BlokkenV{
+        padding: 75px 60px 75px 60px;
+        margin-right: 10%;
+    }
+
+    .BlokkenVi{
+        padding: 75px 60px 75px 60px;
+        margin-right: 10%;
+    }
+
+    .BlokkenVii{
+        padding: 75px 60px 75px 60px;
+        margin-right: 10%;
+    }
+}
 h2{
     margin-bottom: 7.5%;
 }
